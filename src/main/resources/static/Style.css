@@ -1,0 +1,31 @@
+body {
+	font-family: 'Segoe UI', sans-serif;
+}
+
+.login-card {
+	border-radius: 10px;
+	overflow: hidden;
+}
+
+img {
+	max-height: 400px;
+	object-fit: contain;
+}
+
+h2 {
+	font-size: 24px;
+}
+
+.bg-gradient-light {
+	background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+}
+
+input.form-control {
+	border-radius: 6px;
+	padding: 10px;
+}
+
+button.btn {
+	padding: 12px;
+	border-radius: 6px;
+}
