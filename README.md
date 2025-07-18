@@ -1,5 +1,15 @@
 # 🎓 Course Management System - Spring Boot Project
 
+
+
+
+https://github.com/user-attachments/assets/4820f119-168d-4c92-b8bf-645e2510c525
+
+
+
+https://github.com/user-attachments/assets/ab335c23-7650-4f3f-9299-a3ee30d3db4a
+
+
 A web-based **Course Management System** built using **Spring Boot**, **JSP**, **MySQL**, and **Bootstrap** that enables an **Admin** to manage courses and students, and allows **Students** to enroll in courses.
 
 ## 📌 Features
